@@ -1,0 +1,18 @@
+fitness-brand-system
+│
+├── personal-brand/
+│      └── positioning.md
+│
+├── content/
+│      ├── post-ideas.md
+│      ├── script-template.md
+│      └── monthly-plan.md
+│
+├── analysis/
+│      ├── top-blogger-analysis.md
+│      └── viral-patterns.md
+│
+├── products/
+│      └── product-review-template.md
+│
+└── README.md
