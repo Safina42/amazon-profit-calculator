@@ -1,0 +1,12 @@
+fitness-content-lab
+│
+├── templates/
+│     └── workout_post_template.md
+│
+├── analysis/
+│     └── top_20_blogger_analysis.md
+│
+├── hooks/
+│     └── viral_hook_collection.md
+│
+└── README.md
